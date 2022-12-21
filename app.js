@@ -1,4 +1,4 @@
-//import { showSec} from "./s.js";
+import { showSec} from "https://github.com/Mitpf/Simple-nav-menu/blob/main/s.js";
 
 
 document.querySelector('nav').addEventListener('click', navigator);
@@ -23,6 +23,7 @@ function navigator(event) {
     }    
 }
 
+/*
 //s.js
 
 const objAlls = {};
@@ -42,3 +43,4 @@ function showSec(id) {
     const element = objAlls[id]
     main.replaceChildren(element);
 }
+*/
