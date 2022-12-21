@@ -11,7 +11,7 @@ document.querySelector('#stuff').replaceChildren();
 const main = document.querySelector('#main-view');
 
 
-export function showSec(id) {
+export function sshowSec(id) {
 
     const element = objAlls[id]
     main.replaceChildren(element);
