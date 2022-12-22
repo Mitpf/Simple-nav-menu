@@ -16,7 +16,3 @@ export function showSec(id) {
     const element = objAlls[id]
     main.replaceChildren(element);
 }
-
-
-
-
